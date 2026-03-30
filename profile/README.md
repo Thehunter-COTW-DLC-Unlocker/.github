@@ -6,7 +6,7 @@
 
 ### - 🔗 ***Get the Latest Release:***
 
-- [💾 v.1.0+ Release]() = `*Tool files & folder*`
+- [💾 v.1.0+ Release](https://github.com/Thehunter-COTW-DLC-Unlocker/.github/releases) = `*Tool files & folder*`
 
 ---
 
